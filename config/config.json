@@ -1,0 +1,6 @@
+{
+    "UAT01_URL": "https://uat01.socashapp.io/",
+    "TOKEN_URL": "api/partner/cashpoint/payments/token",
+    "CREATE_PAYMENT_URL": "api/partner/cashpoint/payments",
+    "COMPLETE_PAYMENT_URL": "api/collect/1cc5939c-1f87-4755-9eb5-9af89cb4d6b4/events"
+}
