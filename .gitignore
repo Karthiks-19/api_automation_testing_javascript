@@ -1,3 +1,4 @@
 node_modules
 .vscode
 mochawesome-report
+token_data.js
